@@ -1,0 +1,7 @@
+{
+  "name": "Hỗ Trợ Học Tiếng Anh – THUA DAI AI",
+  "description": "An AI-powered English learning assistant to help users practice conversation, learn vocabulary, and improve grammar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
